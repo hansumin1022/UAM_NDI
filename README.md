@@ -30,10 +30,6 @@
 
 <br>
 
-***
-
-
-
 
 ## Reference
 이주호(2024), _UAM Propeller 결함 탐지를 위한 데이터셋 구축 및 Acoustic Anomaly Detection Model 적용 방법 연구_, 석사학위논문, 고려대학교
