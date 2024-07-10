@@ -42,7 +42,7 @@
 
  <br>&rarr; [이때, 오픈소스 라이브러리도 저작권이 있으므로 오픈소스 라이선스를 준수해야 함](https://www.fnnews.com/news/201811281705502816).
 
-
+***
   
 ## Reference
 * 이주호(2024), _UAM Propeller 결함 탐지를 위한 데이터셋 구축 및 Acoustic Anomaly Detection Model 적용 방법 연구_, 석사학위논문, 고려대학교
