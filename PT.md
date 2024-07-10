@@ -1,4 +1,4 @@
-# Vertiport에서의 UAM 기체 단기 결함 검사법 연구
+# 침투 비파괴검사(PT)를 이용한 UAM 결함 검출법 조사
 ##### By Sumin Han
 <br>
 
