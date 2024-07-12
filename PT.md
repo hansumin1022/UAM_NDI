@@ -6,6 +6,11 @@
 
 #### 침투 비파괴검사 (Liquid Penetraition Testing, PT)
 
+<p align="center">
+  <img src="images/PT.png">
+</p>
+
+
 ###### 장점
 * 거의 모든 재료에 적용 가능 &rarr; UAM에 적용이 가능하다.
 * 한 번의 검사로 시험체 전체 조사 가능 &rarr; 회전률을 높여야 하는 대중교통의 성격을 가지는 UAM의 검사 시간을 단축할 수 있다.
