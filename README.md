@@ -17,8 +17,7 @@
 <p>
 <br>
 이에 따라 다양한 결함 검사법의 종류와 최적의 검사 방식을 고민해보았다.
-
-
-***
+<br>
+  
 ## Reference
 * 이주호(2024), _UAM Propeller 결함 탐지를 위한 데이터셋 구축 및 Acoustic Anomaly Detection Model 적용 방법 연구_, 석사학위논문, 고려대학교
